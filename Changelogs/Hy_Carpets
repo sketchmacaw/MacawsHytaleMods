@@ -1,0 +1,35 @@
+1.1.0
+  
+Added:
+  -  Cloth Carpets
+  -  Cloth Carpet Slabs
+  -  Cloth Carpet Stairs
+  -  Macaw's Carpets Workbench
+  -  New recipe to make Bolt of Wool from Linen Scraps
+
+Changes:
+  -  Everything is now crafted in the Mcw Carpets Workbench
+  -  Carpets are now crafted with Bolt of Wool and Petals or Charcoal
+  -  Carpets no longer require a tool, just like vanilla cloth blocks
+  -  Special Carpets have an updated icon with a hammer to show that they are toggle-able
+------------------------------------------------------------------------------------------
+1.0.3
+  
+Added:
+  -  Added non rotated small carpet
+
+Fixed Bugs
+   - Fixed destroying a Large Carpet results in it dropping as an error item  
+------------------------------------------------------------------------------------------
+1.0.2
+
+  - Fixed indestructible Carpets 
+------------------------------------------------------------------------------------------
+1.0.1
+
+  - Fixed Some Bugs
+
+------------------------------------------------------------------------------------------
+1.0.0
+
+  - Initial Release
