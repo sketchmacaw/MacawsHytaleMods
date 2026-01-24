@@ -1,0 +1,40 @@
+1.0.3
+
+Changes:
+- Lights Workbench now had the indicator "M"
+- Lights Workbench has a new model
+- Lights Workbench emmits light ( Because it has lamps on it too lol )
+- Ceiling Lights are now made by placing a Lamp under a block
+- Lamps now have the Hammer indicator on its Icon to show that they can be toggled with it.
+- Removed Wall, Tall, Ceiling Lamps from the Creative Lighting Tab, since they all can be made with the Lamps
+- Lanterns no longer require a solid block underneath them, so you can place them on blocks like Beams
+- The majority of the Lights have new adjusted hitboxes
+
+Bug Fixes:
+- Fixed too yellowish light on Lanterns, Tiki Torches, Candle Holders
+- Fixed 119 Warnings [AssetStore|BlockType] Unused key(s) in 'McwLights': Immersive 
+- Lanterns are off centered by 1px
+
+-----------------------------------------------------------------------------------------------------
+1.0.2
+
+Changes:
+
+- This is experimental, ceiling lights can be placed on upside down slabs
+- Ceiling Lights no longer require a full solid block
+- Slightly adjusted the model of ceiling lights to fit on slabs
+
+Fixed Bugs:
+
+- Fixed water lines appearing after adding this mod
+- Fixed that you can stack multiple different lamps to make tall ones, but get just one of the kind lamp as a drop
+- Fixed Tall lamps only drop 1 item
+-----------------------------------------------------------------------------------------------------
+1.0.1
+
+- Some quick bugfixes
+
+-----------------------------------------------------------------------------------------------------
+1.0.0
+
+- Initial Release
