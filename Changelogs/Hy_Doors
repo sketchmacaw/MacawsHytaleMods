@@ -1,0 +1,33 @@
+1.0.5
+
+- Added Hy Doors Bench
+- Added Hardwood Variants
+
+-----------------------------------------------------
+1.0.4
+
+Fixed Bugs:
+- Redwood Doors still break when opened over an unsolid block
+- Softwood Glass doors dont have glass in their icons
+- Redwood Shoji Doors has softwood texture
+
+-----------------------------------------------------
+1.0.3
+
+Fixed:
+- Doors are breaking sometimes on interaction
+  
+-----------------------------------------------------
+1.0.2
+
+ - Fixed crafting issues with Softwood and Lightwood 
+
+-----------------------------------------------------
+1.0.1
+
+- Fixed bugs pre-launch
+
+-----------------------------------------------------
+1.0.0
+
+- Initial Release
