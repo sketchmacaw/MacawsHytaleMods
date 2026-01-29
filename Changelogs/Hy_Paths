@@ -1,0 +1,26 @@
+Macaw's Hy Paths 1.1.1
+
+Added:
+- Paths Bench
+
+Changes:
+- Paths are now grouped, they can be toggled with the vanilla hammer
+- Or toggled by having the hammer in inventory and pressing Q whilst holding the paths
+- Paths now give a 30% movement boost and 10% jump boost
+- Paths now have a hammer logo on the icon to suggest that they can be toggled with the hammer
+- Running Paths and Tile Paths can be rotated via R so there is no longer a need to craft Vertical block variants
+
+Bug Fixes:
+- Bugged GUI in crafting
+- Removed unused Icons
+- All variations of "Brick running" full blocks are uncraftable
+
+------------------------------------------------------------------------------------------------------------------------
+1.1.0
+
+- Official Release
+
+------------------------------------------------------------------------------------------------------------------------
+1.0.0
+
+- Initial Release, buggy.
