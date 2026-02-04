@@ -1,0 +1,26 @@
+1.0.2
+
+
+Added:
+- Resizable Windows / Can be also toggled with the vanilla Hammer
+- Hy Windows Bench
+
+Changes:
+- Curtains now have the hammer icon to indicate that they can be toggled
+- Tall Blinds and Tall Curtain are no longer craftable, they are only made when building two
+  of the same above each other.
+- Tall Blinds and Tall Curtains drop 2 Short instead of 1 Tall
+- All windows now show hinges on their texture, to know where it opens
+- Sills can now have Corners
+
+Bugs Fixed:
+- Glass Block not letting light through
+- Sills have a bugged texture underneath them
+- Putting two small windows on top of another 
+  converts it to a tall window and drops as tall window instead of individual windows
+- Some Window Textures have a brighter spot
+ 
+
+-------------------------------------------------------
+1.0.0
+Initial Release
