@@ -1,3 +1,21 @@
+ 1.1.0
+
+Added:
+- Deadwood, Drywood, Goldenwood, Tropicalwood variants
+
+Changed:
+- Redwood Texture has been improved
+- Barn Glass, Barn, Paper, Four Panel, Half Glass, Medieval, Modern, Simple,
+  Western, Tropical Doors received a Model and Texture update
+- Doors can now cycle with the Vanilla Hammer
+- Garage Door is no longer showing up in crafting, can be obtained in creative
+
+Fixed Bugs:
+- Fixed glowing Bench xD ...
+- Fixed One pixel on Redwood tropical doors
+- Western Doors are too small in inventory
+
+-----------------------------------------------------
 1.0.5
 
 - Added Hy Doors Bench
